@@ -1,0 +1,5 @@
+cairocffi==1.4.0
+cffi==1.15.1
+pycparser==2.21
+qtile==0.22.1
+xcffib==1.2.0
